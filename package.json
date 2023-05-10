@@ -1,0 +1,19 @@
+{
+  "name": "rollup-bundler",
+  "version": "1.0.0",
+  "description": "GoMakeThings - Structure & Scale - Use of rollup to bundle modules as IIFE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "js": "rollup --config"
+  },
+  "devDependencies": {
+    "rollup": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbWire-1/GoMakeThings-Structure---Scale-Modules.git"
+  },
+  "license": "MIT"
+  
+}
