@@ -1,0 +1,28 @@
+{
+  "name": "sevenseas_bundled",
+  "version": "1.0.0",
+  "description": "Using rollup to bundle the modular sevenSeas project as an IIFE script.js file",
+  "main": "index.js",
+  "scripts": {
+    "js": "rollup --config"
+    },
+    "devDependencies": {
+        "rollup": "^2.4.0"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbWire-1/GoMakeThings-Structure---Scale-Modules.git"
+  },
+  "keywords": [
+    "rollup",
+    "module",
+    "bundle",
+    "IIFE"
+  ],
+  "author": "BarbWire-1 aka Barabar Kälin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BarbWire-1/GoMakeThings-Structure---Scale-Modules/issues"
+  },
+  "homepage": "https://github.com/BarbWire-1/GoMakeThings-Structure---Scale-Modules#readme"
+}
